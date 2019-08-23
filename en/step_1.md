@@ -53,7 +53,8 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator)
++ Understand the skills which are developed towards a career involving Computing
 
 ## Challenges
 "More ingredients" - adding more items to an unordered list;
