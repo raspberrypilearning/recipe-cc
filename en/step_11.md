@@ -12,9 +12,7 @@ font-size: 12pt;
 font-weight: bold;
 
 <img src="image-link-goes-here">
-```
 
-
-
+Go to the next project in the HTML & CSS module pathway: 'Mystery Letter'.
 
 --- /challenge ---
