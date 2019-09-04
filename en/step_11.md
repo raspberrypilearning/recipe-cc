@@ -16,3 +16,10 @@ font-weight: bold;
 Go to the next project in the HTML & CSS module pathway: 'Mystery Letter'.
 
 --- /challenge ---
+
+![progress bar](images/h1-4.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="hhttps://codeclub.org/en/html1">
+<img src="images/Clickme.png">
