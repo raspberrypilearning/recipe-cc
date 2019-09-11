@@ -21,5 +21,5 @@ Go to the next project in the HTML & CSS module pathway: 'Mystery Letter'.
 
 Click on the 'Click me' button to try the next project:
 
-<a href="hhttps://codeclub.org/en/html1">
+<a href="https://codeclub.org/en/html1">
 <img src="images/Clickme.png">
