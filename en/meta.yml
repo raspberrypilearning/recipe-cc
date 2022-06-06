@@ -19,7 +19,6 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Decide on a recipe
 - title: Ingredients
 - title: 'Challenge: More ingredients'
@@ -29,5 +28,4 @@ steps:
 - title: Finishing touches
 - title: 'Challenge: More colours!'
 - title: 'Challenge: Reviews'
-  completion: internal
 - title: 'Challenge: More styling'
